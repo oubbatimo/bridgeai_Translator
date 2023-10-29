@@ -1,0 +1,1 @@
+# bridgeai_Translator
