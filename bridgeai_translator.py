@@ -16,9 +16,9 @@ target_language = st.selectbox("Select target language:", languages)
 
 source_text = st.text_area("Enter text to translate:")
 
-TranslateOrder = st.button('Translate')
+TranslateButton = st.button('Translate')
 
-if TranslateOrder:
+if TranslateButton:
     mytranslator = Translator()
     out = mytranslator.translate(source_text,dest=target_language)
     st.write(out.text)
