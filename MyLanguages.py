@@ -1,7 +1,26 @@
 languages = [
-    "Arabic",
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
     "English",
+    "Estonian",
+    "Finnish",
     "French",
+    "Greek",
     "German",
-    "Spanish"
+    "Hungarian",
+    "Irish",
+    "Italian",
+    "Latvian",
+    "Lithuanian",
+    "Maltese",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish"
 ]
