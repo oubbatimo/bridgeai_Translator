@@ -2,3 +2,4 @@
 
 # Machine Translation using GoogleTrans
 We show you how to create an APP-Translator using GoogleTrans open source package and Streamlit.
+We consider the EU 24 official languages.
